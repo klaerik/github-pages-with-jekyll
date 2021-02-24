@@ -1,3 +1,3 @@
-# Welcome to my blog
+# GitHub Pages Demo
 
-I'm glad you are here. I plan to talk about ...
+Testing .md deployment through Pages
